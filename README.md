@@ -3,7 +3,7 @@
 
 Full Stack Developer looking forward to learn new technologies and to develop apps.
 
-💻 Frontend: HTML, CSS, Javascript, React, Styled-components
+💻 Frontend: HTML, CSS, Javascript, React, Styled-components, Typescript
 
 💽 Backend: Nodejs, Knex, Express, Sqlite
 
