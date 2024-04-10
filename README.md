@@ -1,11 +1,9 @@
 
 👋 Hi, I'm Marcelo,
 
-Full Stack Developer looking forward to learn new technologies and to develop apps.
+A Developer looking forward to learn new technologies and to develop apps.
 
-💻 Frontend: HTML, CSS, Javascript, React, Styled-components, Typescript
-
-💽 Backend: Nodejs, Knex, Express, Sqlite
+💻: Python (Pandas, Matplotlib, Seaborn, Numpy), SQL, HTML, CSS, Javascript, React, Styled-components, Typescript, Nodejs, Knex, Express, Sqlite
 
 
 Connect with me:
