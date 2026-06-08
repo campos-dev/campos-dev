@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Marcelo,
 
-A Developer looking forward to learn new technologies and to develop apps.
+A Data analyst student eager to learn and apply my knowledge.
 
 💻: Python (Pandas, Matplotlib, Seaborn, Numpy), SQL, HTML, CSS, Javascript, React, Styled-components, Typescript, Nodejs, Knex, Express, Sqlite
 
